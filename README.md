@@ -51,7 +51,7 @@ Pose Detection and Annotation: For each frame, it:
 Save Annotated Video: Writes the annotated frames to the output video file.Save Data to CSV: Stores the calculated data (bounding boxes, vectors, lengths) in a CSV file.
 
 ## Output Data
-
+![Output Data Example](https://github.com/Fezzaioussama/Pose-estimation-from-video/blob/main/Capture.PNG)
 The output CSV file contains the following columns:
 
 frame_ID, person_ID
